@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.6615053, 
+          -7.2529076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.2529076, 
+        "Nama": "Sekolah Menengah Pertama Negeri 26 Surabaya", 
+        "Longitude": 112.6615053
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.735918, 
+          -7.2427355
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.2427355, 
+        "Nama": "Sekolah Menengah Pertama Negeri 2", 
+        "Longitude": 112.735918
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7551113, 
+          -7.2660126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.2660126, 
+        "Nama": "SMP Negeri 29 Surabaya", 
+        "Longitude": 112.7551113
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7558994, 
+          -7.2966618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.2966618, 
+        "Nama": "Sekolah Menengah Pertama Negeri 48 Surabaya", 
+        "Longitude": 112.7558994
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.6530686, 
+          -7.2699102
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.2699102, 
+        "Nama": "Sekolah Menengah Pertama Negeri 20 Surabaya", 
+        "Longitude": 112.6530686
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7485417, 
+          -7.2738323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.2738323, 
+        "Nama": "Sekolah Menengah Pertama Negeri 6 Surabaya", 
+        "Longitude": 112.7485417
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7729232, 
+          -7.3274617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.3274617, 
+        "Nama": "Sekolah Menengah Pertama Negeri 35 Surabaya", 
+        "Longitude": 112.7729232
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7901246, 
+          -7.3069786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.3069786, 
+        "Nama": "Sekolah Menengah Pertama Negeri 30 Surabaya", 
+        "Longitude": 112.7901246
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7170694, 
+          -7.3370462
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.3370462, 
+        "Nama": "Sekolah Menengah Pertama Negeri 22 Surabaya", 
+        "Longitude": 112.7170694
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.780418, 
+          -7.28789
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.28789, 
+        "Nama": "SMP Negeri 19 Surabaya", 
+        "Longitude": 112.780418
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7119687, 
+          -7.2620668
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.2620668, 
+        "Nama": "Sekolah Menengah Pertama Negeri 25 Surabaya", 
+        "Longitude": 112.7119687
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.763466, 
+          -7.3194619
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.3194619, 
+        "Nama": "Sekolah Menengah Pertama Negeri 17 Surabaya", 
+        "Longitude": 112.763466
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7775791, 
+          -7.3198764
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.3198764, 
+        "Nama": "Sekolah Menengah Pertama Negeri 23 Surabaya", 
+        "Longitude": 112.7775791
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7440025, 
+          -7.2232134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.2232134, 
+        "Nama": "Sekolah Menengah Pertama Negeri 11", 
+        "Longitude": 112.7440025
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7417051, 
+          -7.3204987
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.3204987, 
+        "Nama": "Sekolah Menengah Pertama Negeri 13 Surabaya", 
+        "Longitude": 112.7417051
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7522578, 
+          -7.3421786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.3421786, 
+        "Nama": "Sekolah Menengah Pertama Negeri 49 Surabaya", 
+        "Longitude": 112.7522578
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.760749, 
+          -7.309671
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.309671, 
+        "Nama": "Sekolah Menengah Pertama Negeri 39 Surabaya", 
+        "Longitude": 112.760749
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7133125, 
+          -7.3297977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.3297977, 
+        "Nama": "Sekolah Menengah Pertama Negeri 36 Surabaya", 
+        "Longitude": 112.7133125
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.6649076, 
+          -7.3087243
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.3087243, 
+        "Nama": "Sekolah Menengah Pertama Negeri 28", 
+        "Longitude": 112.6649076
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          112.7556633, 
+          -7.2124745
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "Latitude": -7.2124745, 
+        "Nama": "Sekolah Menengah Pertama Negeri 27 Surabaya", 
+        "Longitude": 112.7556633
+      }
+    }
+  ]
+}
